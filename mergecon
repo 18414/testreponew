@@ -1,1 +1,1 @@
-init a=10
+init a=100
